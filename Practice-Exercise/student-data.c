@@ -1,8 +1,9 @@
 #include<stdio.h>
+#include<string.h>
 int main()
 {
     int num;
-    char name[200];
+    char name[50];
     int age;
 
     printf("\n student data input");
